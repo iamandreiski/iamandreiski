@@ -1,5 +1,5 @@
 ## About @iamandreiski
-I'm an independent security researcher with two **top 5** finishes in contests across Code4rena and CodeHawks, with 10+ H/M confirmed. 
+I'm an independent security researcher with two **top 5** finishes in contests across Code4rena and CodeHawks, with 15+ H/M confirmed. 
 Professionally I've worked for 5+ years in the Blockchain space, experience which includes managerial positions at one of the top Crypto Exchanges. 
 
 The evergrowing need for the improvement of smart contract security is what motivated me to become a part of the web3 security space a year ago. 
@@ -13,6 +13,7 @@ For any inquiries, feel free to contact me on [Telegram](https://t.me/iamandreis
 
 |Contest        |Platform       |Findings     |Report    |
 |---------------|---------------|-------------|----------|
+|AIArena        |Code4Rena      |2H, 1M       |N/A       |
 |MorpheusAI     |CodeHawks      |1H (5th Place)|[Report](https://www.codehawks.com/report/clrzgrole0007xtsq0gfdw8if)|
 |Salty.io       |Code4Rena      |1H           |N/A       |
 |Decent         |Code4Rena      |1H (4th Place)|N/A      |
