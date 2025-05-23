@@ -9,6 +9,7 @@ For any inquiries, feel free to contact me on [Telegram](https://t.me/iamandreis
 
 | Name | Ranking | Platform | Category |
 |:-----|:--------|:---------|:---------|
+| [Aegis](https://audits.sherlock.xyz/contests/799/leaderboard) | #1 | Sherlock | Bitcoin-backed stablecoin|
 | [Badger eBTC](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/leaderboard) | #8 | Cantina | Bitcoin-based asset |
 | [ThorWallet](https://code4rena.com/audits/2025-02-thorwallet) | #3 | Code4rena | Cross-chain |
 | [EverValue Coin](https://hackenproof.com/audit-programs/evervalue-coin-dualdefense-audit?tab=hackers) | #1 | HackenProof | Orderbook |
