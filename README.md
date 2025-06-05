@@ -1,9 +1,9 @@
 ## About @iamandreiski
 I'm an independent security researcher with 10+ **top 5** finishes in contests across Cantina, Code4rena, CodeHawks, Sherlock, and Immunefi with 100+ C/H/M confirmed.
 
-You can find me at **@iamandreiski** on Twitter, Telegram, and Discord.
+You can find me at **@iamandreiski** on X, Telegram, and Discord.
 
-For any inquiries, feel free to contact me on [Telegram](https://t.me/iamandreiski) or [Twitter](https://twitter.com/iamandreiski).
+For any inquiries, feel free to contact me on [Telegram](https://t.me/iamandreiski) or [X](https://twitter.com/iamandreiski).
 
 ## Public Contests Highlights
 
