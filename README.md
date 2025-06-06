@@ -27,3 +27,9 @@ For any inquiries, feel free to contact me on [Telegram](https://t.me/iamandreis
 | [Decent](https://code4rena.com/audits/2024-01-decent) | #5 | Code4rena | Bridge |
 | [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | #5 | CodeHawks | AI Agent / Cross-chain |
 
+## Platform Profile Links
+
+- Sherlock: https://audits.sherlock.xyz/watson/iamandreiski
+- Cantina: https://cantina.xyz/u/iamandreiski
+- CodeHawks: https://profiles.cyfrin.io/u/iamandreiski
+- HackenProof: https://hackenproof.com/hackers/iamandreiski
